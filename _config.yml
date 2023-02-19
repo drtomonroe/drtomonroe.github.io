@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tanner O. Monroe"
 title_separator          : "-"
-name                     : &name "Cardiac Geneticist"
+name                     : &name ""
 description              : &description "personal description"
 url                      : https://drtomonroe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Tanner O. Monroe"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Cardiac Geneticist"
   location         : "Chicago"
-  employer         : "Northwestern University Feinberg School of Medicine"
+  employer         : "Northwestern University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=tanner+monroe&sort=date"
   googlescholar    : "https://scholar.google.com/citations?user=ayP-o1oAAAAJ&hl=en"
   email            :
