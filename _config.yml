@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Tanner O. Monroe"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Cardiac Geneticist"
 description              : &description "personal description"
 url                      : https://drtomonroe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Tanner O. Monroe"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : "Chicago"
+  employer         : "Northwestern University Feinberg School of Medicine"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=tanner+monroe&sort=date"
+  googlescholar    : "https://scholar.google.com/citations?user=ayP-o1oAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@TannerOMonroe"
   vine             :
   weibo            :
   xing             :
