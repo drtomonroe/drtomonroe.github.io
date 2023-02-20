@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "PCM1 is necessary for focal ciliary integrity and is a candidate for severe schizophrenia"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'In this paper, we used human genetics, mouse, and zebrafish modeling to identify pathogenic variants in PCM1 that disrupt ciliary integrity and associate with severe psychosis'
+date: 2020-11-19
+venue: 'Nature Communications'
+paperurl: 'https://www.nature.com/articles/s41467-020-19637-5#Sec29'
+PMID: 33214552
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
@@ -16,4 +16,4 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Monroe TO, Garrett ME, Kousi M, Rodriguiz RM, Moon S, Bai Y, Brodar SC, Soldano KL, Savage J, Hansen TF, Muzny DM, Gibbs RA, Barak L, Sullivan PF, Ashley-Koch AE, Sawa A, Wetsel WC, Werge T, and Katsanis N. PCM1 is necessary for focal ciliary integrity and is a candidate for severe schizophrenia. Nature Communications. (2020) PMID: 33214552
