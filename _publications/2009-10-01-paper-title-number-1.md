@@ -14,4 +14,7 @@ For the bulk of my graduate thesis, I focused on the problem of inefficient card
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1534580719300450)
 
+This paper was also featured in Dev Cell: [Prometheus Unbound in Yap Heart](https://www.sciencedirect.com/science/article/pii/S1534580719301844)
+
+  
 Citation: Monroe TO, Hill MC, Morikawa, Y, Leach, JP, Heallen T, Cao S, Krijger P, de Laat, W, Wehrens XHT, Rodney GG, Martin JF. YAP Partially Reprograms Chromatin Accessibility to Directly Induce Adult Cardiogenesis In Vivo. Developmental Cell. (2019) PMID: 30773489
