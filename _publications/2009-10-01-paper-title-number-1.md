@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "YAP partially reprograms chromatin accessibility to directly induce adult cardiogenesis <i>in vivo<i>"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: https://www.sciencedirect.com/science/article/pii/S1534580719300450
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+date: 03/2019
+venue: #'Journal 1'
+paperurl: #'http://academicpages.github.io/files/paper1.pdf'
+citation: '7.	Monroe TO, Hill MC, Morikawa, Y, Leach, JP, Heallen T, Cao S, Krijger P, de Laat, W, Wehrens XHT, Rodney GG, Martin JF. YAP Partially Reprograms Chromatin Accessibility to Directly Induce Adult Cardiogenesis In Vivo. Developmental Cell. (2019) PMID: 30773489'
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
