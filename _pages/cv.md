@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Brief CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,18 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, The University of Texas at Austin, 2009
+* B.S. in Biochemistry, The University of Texas at Austin, 2009
+* Ph.D in Biomedica Science, Baylor College of Medicine (Co-advisors James Martin MD PhD & George Rodney PhD, 2019
+* NIH Postdoctoral Fellow, Northwestern University (Advisor Nicholas Katsanis PhD), 2019-2021
+* AHA Postdoctoral Fellow, Northwestern University (Advisor Elizabeth McNAlly MD PhD), 2021-Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2007-2008: Research Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* 2008-2010: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+
+* 2010-2012: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
@@ -56,4 +63,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* AHA
+* ASHG
