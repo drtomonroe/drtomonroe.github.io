@@ -2,16 +2,16 @@
 title: "Opposing effects of genetic variation in <i>MTCH2<i> for obesity versus heart failure"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'We identified a linkage disequilibrium block in <i>MTCH2<i> associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive <i>in vivo<i> validation in Drosophila'
+excerpt: 'We identified a linkage disequilibrium block in <i>MTCH2<i> associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive in vivo validation in Drosophila'
 date: 2022-06-29
 venue: 'Human Molecular Genetics'
 paperurl: 'https://academic.oup.com/hmg/article-abstract/32/1/15/6651783'
 PMID: '35904451'
 ---
-We identified a linkage disequilibrium block in MTCH2 associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive <i>in vivo<i> validation in Drosophila
+We identified a linkage disequilibrium block in MTCH2 associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive in vivo validation in Drosophila
 
   
-<img src="https://academic.oup.com/view-large/figure/391596644/ddac176ga.tif" alt="Alt text" width="400">
+<img src="https://imgur.com/Zek1s6f" alt="Alt text" width="400">
 
   
 [Download paper here](https://academic.oup.com/hmg/article-abstract/32/1/15/6651783)
