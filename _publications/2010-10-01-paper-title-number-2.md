@@ -10,7 +10,8 @@ citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
-[commentary here]([https://www.sciencedirect.com/science/article/pii/S1534580719301844](https://drive.google.com/file/d/1puHWiANVsEiQSCCUjGMnyyncrFtQ6vKJ/view?usp=sharing))
+
+![Alt text](https://i.imgur.com/I47yzfg.png)
 
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
