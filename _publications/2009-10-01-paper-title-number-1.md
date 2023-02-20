@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Here, we showed that cardiomyocyte-specific expression of a version of YAP that cannot be inhibited by canonical Hippo signaling caused dramatic cell-cylce re-entry and re-expression of an embryonic cardiomyocyte gene program.'
 date: 2019-03-25
-Journal: 'Developmental Cell'
+venue: 'Developmental Cell'
 paperurl: #'https://www.sciencedirect.com/science/article/pii/S1534580719300450'
 PMID: '30773489'
 ---
