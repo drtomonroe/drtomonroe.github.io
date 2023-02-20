@@ -9,9 +9,10 @@ paperurl: 'https://academic.oup.com/hmg/article-abstract/32/1/15/6651783'
 PMID: '35904451'
 ---
 We identified a linkage disequilibrium block in MTCH2 associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive in vivo validation in Drosophila
+ 
 <br>
-![Alt text](https://imgur.com/Zek1s6f)
- <br>
+![Alt text](https://i.imgur.com/Zek1s6f.png)
+<br>
   
 [Download paper here](https://academic.oup.com/hmg/article-abstract/32/1/15/6651783)
 
