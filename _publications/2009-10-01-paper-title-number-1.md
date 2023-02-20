@@ -3,7 +3,7 @@ title: "YAP partially reprograms chromatin accessibility to directly induce adul
 collection: publications
 permalink: https://www.sciencedirect.com/science/article/pii/S1534580719300450
 excerpt: 'Here, we showed that cardiomyocyte-specific expression of a version of YAP that cannot be inhibited by canonical Hippo signaling caused dramatic cell-cylce re-entry and re-expression of an embryonic cardiomyocyte gene program.'
-date: 03/2019
+date: 03-25-2019
 Journal: 'Developmental Cell'
 paperurl: #'https://www.sciencedirect.com/science/article/pii/S1534580719300450'
 PMID: '30773489'
