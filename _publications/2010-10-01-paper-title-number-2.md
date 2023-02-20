@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'In this paper, we used human genetics, mouse, and zebrafish modeling to identify pathogenic variants in PCM1 that disrupt ciliary integrity and associate with treatment-resistant psychosis'
 date: 2020-11-19
-Journal: 'Nature Communications'
+venue: 'Nature Communications'
 paperurl: #'https://www.nature.com/articles/s41467-020-19637-5#Sec29'
 PMID: '33214552'
 ---
