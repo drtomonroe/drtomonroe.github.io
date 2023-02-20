@@ -1,14 +1,14 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a cardiac geneticist dedicated to understanding how human genetic variation influences cardiac form and function. I specialze the design and implementation of tractible experiments that test hypotheses generated from personal and population genetics. This approach sorts into three primary of investigation:
+I am a geneticist dedicated to understanding how human genetic variation influences cardiac form and function. I specialze the design and implementation of tractible experiments that test hypotheses generated from personal and population genetics. This approach sorts into three primary of investigation:
 <br>
 1. Using statistical approaches to identify candidate deleterious variants.
 <br>
