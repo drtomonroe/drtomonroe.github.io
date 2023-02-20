@@ -9,6 +9,9 @@ paperurl: #'https://www.sciencedirect.com/science/article/pii/S1534580719300450'
 PMID: '30773489'
 ---
 For the bulk of my graduate thesis, I focused on the problem of inefficient cardiomyocyte renewal. Cardiomyocytes are terminally differentiated, with a limited capacity for self-renewal. They are, therefore, an important target for regenerative therapy and a model cell type to test the limits of cellular plasticity. My thesis lab had previously shown the Hippo pathway inhibits postnatal proliferative expansion of the myocardium. I led a study in which we created a mouse that conditionally expresses a form of YAP that cannot be inhibited by canonical Hippo signaling1. When I expressed this YAP, called YAP5SA, in adult cardiomyocytes, I observed dramatic chromatin remodeling, re-expression of genes characteristic of developmentally naïve cardiomyocytes, and re-induction of the cell cycle. This discovery is significant because it supports the claim that resident cardiomyocytes can be reprogrammed to multiply.
+  
+![Alt text](bio-photo.jpg "Optional title")
+
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S1534580719300450)
 
