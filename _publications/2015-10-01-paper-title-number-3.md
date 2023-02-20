@@ -1,15 +1,19 @@
 ---
-title: "Paper Title Number 3"
+title: "Opposing effects of genetic variation in <i>MTCH2<i> for obesity versus heart failure"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'We identified a linkage disequilibrium block in <i>MTCH2<i> associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive <i>in vivo<i> validation in Drosophila'
+date: 2022-06-29
+venue: 'Human Molecular Genetics'
+paperurl: 'https://academic.oup.com/hmg/article-abstract/32/1/15/6651783'
+PMID: '35904451'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+We identified a linkage disequilibrium block in MTCH2 associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive <i>in vivo<i> validation in Drosophila
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+  
+<img src="https://academic.oup.com/view-large/figure/391596644/ddac176ga.tif" alt="Alt text" width="400">
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+  
+[Download paper here](https://academic.oup.com/hmg/article-abstract/32/1/15/6651783)
+
+Citation: 1.	Fischer JA, Monroe TO, Pesce LL, Sawicki KT, Quattrocelli M, Bauer R, Kearns SD, Wolf MK,  Puckelwartz MJ, McNally EM. Opposing effects of genetic variation in MTCH2 for obesity versus heart failure. Human Molecular Genetics. (2022) PMID: 35904451
