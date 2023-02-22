@@ -5,8 +5,27 @@
 @import "theme";
 @import "mixins";
 
-blockquote {
-  margin: 0;
-  padding: 10px 20px;
-  border-left: solid 4px $gray-300;
+.role {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+  color: $gray-500;
+  font-family: $sans;
+  font-size: 0.9rem;
+
+  .role_text {
+    font-weight: $medium;
+  }
+
+  .role_description {
+    // font-style: italic;
+  }
+
+  @media (max-width: $phone) {
+    .role_description {
+      width: 100%;
+    }
+  }
 }
