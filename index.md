@@ -42,7 +42,7 @@ I am a geneticist dedicated to understanding how human genetic variation influen
   icon="fas fa-arrow-right"
   flip=true
 %}
-{:.center}
+{:.left}
 {% endcapture %}
 
 {%
