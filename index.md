@@ -43,10 +43,8 @@ I am a geneticist dedicated to understanding how human genetic variation influen
     icon="fas fa-arrow-right"
     flip=true
   %}
-  </ul>
+
 </div>
-
-
 
 {%
   include feature.html
@@ -55,7 +53,9 @@ I am a geneticist dedicated to understanding how human genetic variation influen
   title="Our Research"
   text=text
 %}
-
+ </ul>
+ 
+ 
 {% capture text %}
 <li><strong>Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions about causality and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles. Usually, this means using animal models, or more recently, human-engineered tissues. All models are imperfect, so each decision is based on careful consideration of the appropriateness of the validation system. My preferred approach is to use orthogonal models and assay for convergent lines of evidence.</li>
 
