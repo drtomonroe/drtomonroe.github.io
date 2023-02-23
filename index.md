@@ -2,9 +2,14 @@
 title: Home
 ---
 
-# Climb every mountain, ford every stream, follow every rainbow, 'til you find your dream.
+{% include link.html
+    link="research"
+    text="# Climb every mountain, ford every stream, follow every rainbow, 'til you find your dream.
 
-I am a geneticist dedicated to understanding how human genetic variation influences cardiac form and function. I specialize in the design and implementation of tractable experiments that test hypotheses generated from personal and population genetics observations. This approach sorts into three primary areas of investigation:
+I am a geneticist dedicated to understanding how human genetic variation influences cardiac form and function. I specialize in the design and implementation of tractable experiments that test hypotheses generated from personal and population genetics observations. This approach sorts into three primary areas of investigation:"
+    icon="fas fa-arrow-right"
+    flip=true
+  %}
 
 {%
   include link.html
