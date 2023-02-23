@@ -7,8 +7,7 @@ logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: ""
-url                      : https://drtomonroe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-repository               : "drtomonroe/drtomonroe.github.io
+
 
 # site social media and other links
 links:
