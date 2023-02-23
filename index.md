@@ -32,18 +32,20 @@ I am a geneticist dedicated to understanding how human genetic variation influen
 
 # Highlights
 
-{% capture text %}
-<li><strong>Using statistical approaches to identify candidate deleterious variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, I focus my attention on discovering novel genetic components of disease. My approach is to identify highly penetrant variants passed down within families, and separately, look for inflation of common variants in more common diseases. I am keenly interested in how rare and common genetic variants interact to modify disease presentation, and how cumulative genetic burden amounts to a continuum of causality.</li>
+<div style="text-align: left;">
+  {% capture text %}
+    <li><strong>Using statistical approaches to identify candidate deleterious variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, I focus my attention on discovering novel genetic components of disease. My approach is to identify highly penetrant variants passed down within families, and separately, look for inflation of common variants in more common diseases. I am keenly interested in how rare and common genetic variants interact to modify disease presentation, and how cumulative genetic burden amounts to a continuum of causality.</li>
 
-{%
-  include link.html
-  link="research"
-  text="See what we've published"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.left}
-{% endcapture %}
+    {% include link.html
+      link="research"
+      text="See what we've published"
+      icon="fas fa-arrow-right"
+      flip=true
+    %}
+  {% endcapture %}
+  {{ text | strip }}
+</div>
+
 
 {%
   include feature.html
