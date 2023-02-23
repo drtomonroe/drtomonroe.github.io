@@ -9,7 +9,9 @@ nav:
 
 <div style="text-align: center;">  
   
-  <p>I specialize in designing and implementing tractable experiments to test hypotheses generated from personal and population genetics observations. I am particularly interested in congenital heart disease and its adult manifestations, with a particular focus in the variable expressivity that characterizes these conditions. My approach can be divided into three primary areas of investigation:</p>
+   <p>I specialize in designing and implementing tractable experiments to test hypotheses generated from personal and population genetics observations. I am particularly interested in genetic heart disease and the variable expressivity that characterizes these conditions. Key to this work is the discovery, validation, and mechanistic mapping of high and low impact genetic variants. I believe that understanding and integrating these mechanisms is the future of human genetics research, and that better predictive models, backed by refined molecular pathomechanisms, will revolutionize the prevention and treatment of cardiomyopathies. My role can be divided into three main areas of investigation:
+</p>
+
   
 </div>
 
