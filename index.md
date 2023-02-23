@@ -49,55 +49,11 @@ I am a geneticist dedicated to understanding how human genetic variation influen
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
-  title="Our Research"
   text=text
 %}
  </ul>
  </div>
  
-{% capture text %}
-<li><strong>Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions about causality and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles. Usually, this means using animal models, or more recently, human-engineered tissues. All models are imperfect, so each decision is based on careful consideration of the appropriateness of the validation system. My preferred approach is to use orthogonal models and assay for convergent lines of evidence.</li>
 
-{%
-  include link.html
-  link="tools"
-  text="Browse our tools"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="resources"
-  title="Our Resources"
-  flip=true
-  text=text
-%}
-
-{% capture text %}
-<li><strong>Using that knowledge to more clearly understand disease-causing mechanisms.</strong> Once we identify a candidate variant and test whether or not it is pathogenic, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Pathogenicity within one gene can range from loss-of-function to overexuberance, or even deviant neofunctionalization. Therefore, in order to understand the genesis and course of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
-
-{%
-  include link.html
-  link="team"
-  text="Meet our team"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+ <ul>
+    <li><strong>Testing the pathogenicity of those candidates.Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions about causality and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles. Usually, this means using animal models, or more recently, human-engineered tissues. All models are imperfect, so each decision is based on careful consideration of the appropriateness of the validation system. My preferred approach is to use orthogonal models and assay for convergent lines of evidence. Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions about causality and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles. Usually, this means using animal models, or more recently, human-engineered tissues. All models are imperfect, so each decision is based on careful consideration of the appropriateness of the validation system. My preferred approach is to use orthogonal models and assay for convergent lines of evidence.</li>
