@@ -7,7 +7,12 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-<p>I specialize in the design and implementation of tractable experiments that test hypotheses generated from personal and population genetics observations. This approach sorts into three primary areas of investigation:</p>
+<div style="text-align: center;">  
+  
+  <p>I specialize in designing and implementing tractable experiments to test hypotheses generated from personal and population genetics observations. I am particularly interested in congenital heart disease and its adult manifestations, with a particular focus in the variable expressivity that characterizes these conditions. My approach can be divided into three primary areas of investigation:</p>
+  
+</div>
+
 
 # Approach
 
