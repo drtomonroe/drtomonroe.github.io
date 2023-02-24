@@ -97,4 +97,24 @@
   - Development 
   - Functional genetics
   - Mouse models
+
+
+ - id: doi:10.1073/pnas.2011614117
+  title: A steroid receptor coactivator stimulator (MCB-613) attenuates adverse remodeling after myocardial infarction
+  #authors:
+  #- 
+  #- 
+  publisher: PNAS
+  date: '2020-12-08'
+  link: https://www.pnas.org/doi/abs/10.1073/pnas.2011614117
+  image: https://i.imgur.com/UTR4AEB.png
+  description: "We found that the small molecule, MCB-613, reduced post myocardial infarction injury by reducing inflammatory damage"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.pnas.org/doi/abs/10.1073/pnas.2011614117
+  tags:
+  - Functional genetics
+  - Mouse models
+  - Hearts
+  
   
