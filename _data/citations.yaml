@@ -61,3 +61,24 @@
   - Zebrafish
   - Hearts
   
+  
+  
+- id: doi:10.1016/j.devcel.2019.01.017
+  title: YAP Partially Reprograms Chromatin Accessibility to Directly Induce Adult Cardiogenesis In Vivo
+  #authors:
+  #- 
+  #- 
+  publisher: Developmental Cell
+  date: '2019-03-25'
+  link: https://www.sciencedirect.com/science/article/pii/S1534580719300450?via%3Dihub
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1534580719300450-gr7.jpg
+  description: "We found that cardiomyocyte-specific expression of a version of YAP that cannot be inhibited by canonical Hippo signaling caused dramatic cell-cylce re-entry and re-expression of an embryonic cardiomyocyte gene program."
+  extra-links:
+  - type: manubot
+    link: https://www.sciencedirect.com/science/article/pii/S1534580719301844
+  tags:
+  - Development 
+  - Functional genetics
+  - Mouse models
+  - Hearts
+  
