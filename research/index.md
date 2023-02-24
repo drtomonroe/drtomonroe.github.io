@@ -20,7 +20,7 @@ nav:
 
 <div style="text-align: left;">
   <ul>
-    <li><strong>Statistical approaches to identify candidate deleterious variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, I focus my attention on discovering novel genetic components of disease. My approach is to identify highly penetrant variants passed down within families, and separately, look for inflation of common variants in more common diseases. I am keenly interested in how rare and common genetic variants interact to modify disease presentation, and how cumulative genetic burden amounts to a continuum of causality.</li>
+    <li><strong>Statistical approaches to identify suspicious variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, I focus my attention on discovering novel genetic components of disease. My approach is to identify highly penetrant variants passed down within families, and separately, look for inflation of common variants in more common diseases. I am keenly interested in how rare and common genetic variants interact to modify disease presentation, and how cumulative genetic burden amounts to a continuum of causality.</li>
   </ul>
 </div>
  
