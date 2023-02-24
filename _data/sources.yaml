@@ -1,6 +1,8 @@
 - id: 10.1038/s41467-020-19637-5
   image: https://i.imgur.com/I47yzfg.png[/img]
   date: 2020-11-19
+  description: "This paper describes the use of statistical genetics to investigate allelic series in animal models."
+
  #extra-links:
  #   - type: manubot
  #     link: https://greenelab.github.io/knowledge-graph-review/
