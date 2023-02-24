@@ -42,6 +42,22 @@
   - Hearts
   
   
-  
-  
+- id: doi:10.1093/hmg/ddaa073
+  title: Loss of function mutations in CCDC32 cause a congenital syndrome characterized by craniofacial, cardiac and neurodevelopmental anomalies
+  #authors:
+  #- 
+  #- 
+  publisher: Human Molecular Genetics
+  date: '2020-05-01'
+  link: https://academic.oup.com/hmg/article/29/9/1489/5822585
+  image: https://i.imgur.com/J5Q922J.png
+  description: "Here, we identified the likely causal variants underlying a suspected recessive ciliopathy in the affected individuals, which we validated using zebrafish and cell culture assays"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.nature.com/articles/s41467-020-19637-5
+  tags:
+  - Familial inheritance 
+  - Development
+  - Zebrafish
+  - Hearts
   
