@@ -1,15 +1,15 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY FROM SOURCES.YAML (AND ELSEWHERE)
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1038/s41467-020-19637-5
+  title: PCM1 is necessary for focal ciliary integrity and is a candidate for severe schizophrenia
+  #authors:
+  #- David N. Nicholson
+  #- Casey S. Greene
+  publisher: Nature Communications
+  date: '2020-11-29'
+  link: https://www.nature.com/articles/s41467-020-19637-5
+  image: https://i.imgur.com/I47yzfg.png[/img]
   extra-links:
   - type: manubot
     link: https://greenelab.github.io/knowledge-graph-review/
