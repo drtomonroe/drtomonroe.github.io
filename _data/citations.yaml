@@ -80,3 +80,21 @@
   - Mouse models
   - Hearts
   
+  - id: doi:10.1073/pnas.2000175117
+  title: Organ of Corti size is governed by Yap/Tead-mediated progenitor self-renewal
+  #authors:
+  #- 
+  #- 
+  publisher: PNAS
+  date: '2020-06-16'
+  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
+  image: https://i.imgur.com/mkCQQ2i.png
+  description: "We found again that expressing YAP5SA in post-mitotic cells is sufficient to promote renewal"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
+  tags:
+  - Development 
+  - Functional genetics
+  - Mouse models
+  
