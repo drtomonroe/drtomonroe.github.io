@@ -4,41 +4,45 @@
 - id: doi:10.1038/s41467-020-19637-5
   title: PCM1 is necessary for focal ciliary integrity and is a candidate for severe schizophrenia
   #authors:
-  #- David N. Nicholson
-  #- Casey S. Greene
+  #- 
+  #- 
   publisher: Nature Communications
   date: '2020-11-29'
   link: https://www.nature.com/articles/s41467-020-19637-5
   image: https://i.imgur.com/I47yzfg.png[/img]
   extra-links:
   - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+    link: https://www.nature.com/articles/s41467-020-19637-5
   tags:
-  - knowledge graphs
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2019-06-24'
-  link: https://doi.org/c7np
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+  - Statistical Genetics
+  - Development
+  - Mouse models
+  - Zebrafish
+#  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+
+- id: doi:10.1093/hmg/ddac176
+  title: Opposing effects of genetic variation in MTCH2 for obesity versus heart failure
+ # authors:
+ # - 
+ # -
+  publisher: Human Molecular Genetics
+  date: '2023-01-23'
+  link: https://academic.oup.com/hmg/article/32/1/15/6651783
+  image: [img]https://i.imgur.com/Zek1s6f.png[/img]
+ # repo: 
   extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
+ # - type: manubot
+ #   link: https://greenelab.github.io/meta-review/
+ # - type: source
+ #   link: https://github.com/greenelab/meta-review
+ # - type: website
+ #   link: http://manubot.org/
+ tags:
+  - Statistical Genetics
+  - Hearts
+  - Drosophila
+ # _cache: 189b56e366896b6a90ae8d64fc4e605797d2bdd07674653d81ae533b2f1e4672
+ 
 - id: doi:10.7554/eLife.32822
   title: Sci-Hub provides access to nearly all scholarly literature
   authors:
