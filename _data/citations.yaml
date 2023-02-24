@@ -47,7 +47,7 @@
   #- 
   #- 
   publisher: Human Molecular Genetics
-  date: '2023-01-01'
+  date: '2020-05-01'
   link: https://academic.oup.com/hmg/article/29/9/1489/5822585
   image: https://i.imgur.com/J5Q922J.png
   description: "Here, we identified the likely causal variants underlying a suspected recessive ciliopathy in the affected individuals, which we validated using zebrafish and cell culture assays"
@@ -58,10 +58,11 @@
   - Familial inheritance 
   - Development
   - Zebrafish
+  - Hearts
   
   
 - id: doi:10.1016/j.devcel.2019.01.017
-  title: Loss of function mutations in CCDC32 cause a congenital syndrome characterized by craniofacial, cardiac and neurodevelopmental anomalies
+  title: YAP Partially Reprograms Chromatin Accessibility to Directly Induce Adult Cardiogenesis In Vivo
   #authors:
   #- 
   #- 
@@ -77,5 +78,46 @@
   - Development 
   - Functional genetics
   - Mouse models
+  - Hearts
+  
+- id: doi:10.1073/pnas.2000175117
+  title: Organ of Corti size is governed by Yap/Tead-mediated progenitor self-renewal
+  #authors:
+  #- 
+  #- 
+  publisher: PNAS
+  date: '2019-03-25'
+  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
+  image: https://i.imgur.com/mkCQQ2i.png
+  description: "We found again that expressing YAP5SA in post-mitotic cells is sufficient to promote renewal"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
+  tags:
+  - Development 
+  - Functional genetics
+  - Mouse models
+  
+ - id: doi:10.1073/pnas.2011614117
+  title: A steroid receptor coactivator stimulator (MCB-613) attenuates adverse remodeling after myocardial infarction
+  #authors:
+  #- 
+  #- 
+  publisher: PNAS
+  date: '2019-03-25'
+  link: https://www.pnas.org/doi/abs/10.1073/pnas.2011614117
+  image: https://i.imgur.com/UTR4AEB.png
+  description: "We found that the small molecule, MCB-613, reduced post myocardial infarction injury by reducing inflammatory damage"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
+  tags:
+  - Functional genetics
+  - Mouse models
+  - Hearts
+  
+  
+  
+  
   
   
