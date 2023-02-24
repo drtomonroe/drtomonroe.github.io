@@ -21,7 +21,6 @@
   - Zebrafish
   - Functional genetics
 
-
 - id: doi:10.1093/hmg/ddac176
   title: Opposing effects of genetic variation in MTCH2 for obesity versus heart failure
   #authors:
@@ -80,7 +79,7 @@
   - Mouse models
   - Hearts
   
-  - id: doi:10.1073/pnas.2000175117
+- id: doi:10.1073/pnas.2000175117
   title: Organ of Corti size is governed by Yap/Tead-mediated progenitor self-renewal
   #authors:
   #- 
