@@ -1,7 +1,7 @@
-- id: 10.1038/s41467-020-19637-5
+- id: doi:10.1038/s41467-020-19637-5
   image: https://i.imgur.com/I47yzfg.png[/img]
   date: 2020-11-19
-  description: "This paper describes the use of statistical genetics to investigate allelic series in animal models."
+  description: "For the bulk of my graduate thesis, I focused on the problem of inefficient cardiomyocyte renewal. Cardiomyocytes are terminally differentiated, with a limited capacity for self-renewal. They are, therefore, an important target for regenerative therapy and a model cell type to test the limits of cellular plasticity. My thesis lab had previously shown the Hippo pathway inhibits postnatal proliferative expansion of the myocardium. I led a study in which we created a mouse that conditionally expresses a form of YAP that cannot be inhibited by canonical Hippo signaling1. When I expressed this YAP, called YAP5SA, in adult cardiomyocytes, I observed dramatic chromatin remodeling, re-expression of genes characteristic of developmentally naïve cardiomyocytes, and re-induction of the cell cycle. This discovery is significant because it supports the claim that resident cardiomyocytes can be reprogrammed to multiply. It was also featured in Dev Cell: [Prometheus Unbound in Yap Heart](https://www.sciencedirect.com/science/article/pii/S1534580719301844)""
 
  #extra-links:
  #   - type: manubot
@@ -13,7 +13,7 @@
 
 - id: doi:10.1371/journal.pcbi.1007128
   image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+  #repo: greenelab/meta-review
   extra-links:
     - type: manubot
       link: https://greenelab.github.io/meta-review/
