@@ -46,6 +46,12 @@
         {{ title }}
       </a>
     </div>
+    
+    {%- assign description = citation.description | default: "" -%}
+<div class="citation_description">
+  {{ description }}
+</div>
+
 
     {%- assign authors = citation.authors | default: emptyarray -%}
     <div
