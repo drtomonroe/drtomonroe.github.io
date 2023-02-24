@@ -15,10 +15,11 @@
   #- type: manubot
   #  link: https://www.nature.com/articles/s41467-020-19637-5
   tags:
-  - Statistical Genetics
+  - Statistical genetics
   - Development
   - Mouse models
   - Zebrafish
+  - Functional genetics
 
 
 - id: doi:10.1093/hmg/ddac176
@@ -35,6 +36,46 @@
   #- type: manubot
   #  link: https://www.nature.com/articles/s41467-020-19637-5
   tags:
-  - Statistical Genetics
+  - Statistical genetics
   - Drosophila
   - Hearts
+  
+  
+  - id: doi:10.1093/hmg/ddaa073
+  title: Loss of function mutations in CCDC32 cause a congenital syndrome characterized by craniofacial, cardiac and neurodevelopmental anomalies
+  #authors:
+  #- 
+  #- 
+  publisher: Human Molecular Genetics
+  date: '2023-01-01'
+  link: https://academic.oup.com/hmg/article/29/9/1489/5822585
+  image: https://i.imgur.com/J5Q922J.png
+  description: "Here, we identified the likely causal variants underlying a suspected recessive ciliopathy in the affected individuals, which we validated using zebrafish and cell culture assays"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.nature.com/articles/s41467-020-19637-5
+  tags:
+  - Familial inheritance 
+  - Development
+  - Zebrafish
+  
+  
+  - id: doi:10.1016/j.devcel.2019.01.017
+  title: Loss of function mutations in CCDC32 cause a congenital syndrome characterized by craniofacial, cardiac and neurodevelopmental anomalies
+  #authors:
+  #- 
+  #- 
+  publisher: Developmental Cell
+  date: '2019-03-25'
+  link: https://www.sciencedirect.com/science/article/pii/S1534580719300450?via%3Dihub
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1534580719300450-gr7.jpg
+  description: "We found that cardiomyocyte-specific expression of a version of YAP that cannot be inhibited by canonical Hippo signaling caused dramatic cell-cylce re-entry and re-expression of an embryonic cardiomyocyte gene program."
+  extra-links:
+  - type: manubot
+    link: https://www.sciencedirect.com/science/article/pii/S1534580719301844
+  tags:
+  - Development 
+  - Functional genetics
+  - Mouse models
+  
+  
