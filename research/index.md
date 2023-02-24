@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Research
+# <img src="" alt="Research" style="width: 50px; height: 50px; vertical-align: middle;">Research
 
 <div style="text-align: center;">  
   
