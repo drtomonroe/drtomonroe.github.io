@@ -21,24 +21,23 @@
   - Zebrafish
   - Functional genetics
 
-  
-- id: doi:10.1093/hmg/ddaa073
-  title: Loss of function mutations in CCDC32 cause a congenital syndrome characterized by craniofacial, cardiac and neurodevelopmental anomalies
+
+- id: doi:10.1093/hmg/ddac176
+  title: Opposing effects of genetic variation in MTCH2 for obesity versus heart failure
   #authors:
   #- 
   #- 
   publisher: Human Molecular Genetics
-  date: '2020-05-01'
-  link: https://academic.oup.com/hmg/article/29/9/1489/5822585
-  image: https://i.imgur.com/J5Q922J.png
-  description: "Here, we identified the likely causal variants underlying a suspected recessive ciliopathy in the affected individuals, which we validated using zebrafish and cell culture assays"
+  date: '2023-01-01'
+  link: https://academic.oup.com/hmg/article/32/1/15/6651783
+  image: https://i.imgur.com/Zek1s6f.png
+  description: "We identified a linkage disequilibrium block in <i>MTCH2</i> associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive in vivo validation in Drosophila"
   #extra-links:
   #- type: manubot
   #  link: https://www.nature.com/articles/s41467-020-19637-5
   tags:
-  - Familial inheritance 
-  - Development
-  - Zebrafish
+  - Statistical genetics
+  - Drosophila
   - Hearts
   
   
@@ -60,7 +59,6 @@
   - Development
   - Zebrafish
   - Hearts
-  
   
   
 - id: doi:10.1016/j.devcel.2019.01.017
