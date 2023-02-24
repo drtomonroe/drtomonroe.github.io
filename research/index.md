@@ -34,7 +34,7 @@ nav:
   
 # <img src="heart_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Current Projects
 
-<div
+<div>
 
 <div style="text-align: left;">
   <ul>
