@@ -98,15 +98,15 @@
   - Mouse models
 
 - id: doi:10.1073/pnas.2011614117
-  title: Organ of Corti size is governed by Yap/Tead-mediated progenitor self-renewal
+  title: A steroid receptor coactivator stimulator MCB-613 attenuates adverse remodeling after myocardial infarction
   #authors:
   #- 
   #- 
   publisher: PNAS
-  date: '2020-06-16'
-  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
-  image: https://i.imgur.com/mkCQQ2i.png
-  description: "We found again that expressing YAP5SA in post-mitotic cells is sufficient to promote renewal"
+  date: '2020-09-16'
+  link: doi:10.1073/pnas.2011614117
+  image: https://i.imgur.com/UTR4AEB.png
+  description: "We found that the small molecule, MCB-613, reduced post myocardial infarction injury by reducing inflammatory damage"
   #extra-links:
   #- type: manubot
   #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
