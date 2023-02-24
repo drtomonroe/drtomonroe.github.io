@@ -13,10 +13,10 @@ baseurl: ""
 links:
   email: tanner.monroe@northwestern.edu
   google-scholar: ayP-o1oAAAAJ
-  github: your-lab
-  twitter: @TannerOMonroe
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+ # github: your-lab
+  twitter: TannerOMonroe
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 ### advanced settings
 
