@@ -21,7 +21,7 @@ links:
 ### advanced settings
 
 # automatic citations
-auto-cite: Tanner Monroe
+auto-cite: 
   plugins:
     - name: sources
       input:
