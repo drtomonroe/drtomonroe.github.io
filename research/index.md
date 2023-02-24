@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# <img src="heart_icon.jpg" alt="Research" style="width: 40px; height: 55px; margin-right: 10px; vertical-align: middle;">Research
+# <img src="heart_icon.jpg" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Research
 
 <div style="text-align: center;">  
   
@@ -16,7 +16,7 @@ nav:
 </div>
 
 
-# <img src="heart_icon.jpg" alt="Research" style="width: 40px; height: 55px; margin-right: 10px; vertical-align: middle;">Approach
+# <img src="heart_icon.jpg" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Approach
 
 <div style="text-align: left;">
   <ul>
