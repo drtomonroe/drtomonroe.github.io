@@ -10,13 +10,31 @@
   date: '2020-11-29'
   link: https://www.nature.com/articles/s41467-020-19637-5
   image: https://i.imgur.com/I47yzfg.png
-  description: "This is a test descritopm oiei"
-  extra-links:
-  - type: manubot
-    link: https://www.nature.com/articles/s41467-020-19637-5
+  description: "In this paper, we used human genetics, mouse, and zebrafish modeling to identify pathogenic variants in PCM1 that disrupt ciliary integrity and associate with treatment-resistant psychosis"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.nature.com/articles/s41467-020-19637-5
   tags:
   - Statistical Genetics
   - Development
   - Mouse models
   - Zebrafish
-  _cache: 2b8aa76c98be2f26481ab15dc135eb446fa9ef6f94af175c9639d1a45d538cf4
+
+
+- id: doi:10.1093/hmg/ddac176
+  title: Opposing effects of genetic variation in MTCH2 for obesity versus heart failure
+  #authors:
+  #- 
+  #- 
+  publisher: Human Molecular Genetics
+  date: '2023-01-01'
+  link: https://academic.oup.com/hmg/article/32/1/15/6651783
+  image: https://i.imgur.com/Zek1s6f.png
+  description: "We identified a linkage disequilibrium block in <i>MTCH2</i> associated with cardiomyopathy and obesity, with opposite direction of effect in the two conditions, backed up by extensive in vivo validation in Drosophila"
+  #extra-links:
+  #- type: manubot
+  #  link: https://www.nature.com/articles/s41467-020-19637-5
+  tags:
+  - Statistical Genetics
+  - Drosophila
+  - Hearts
