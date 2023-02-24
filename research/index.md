@@ -31,7 +31,8 @@ nav:
  <ul>
  <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once we identify a candidate variant and test whether or not it is pathogenic, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Pathogenicity within one gene can range from loss-of-function to overexuberance, or even deviant neofunctionalization. Therefore, in order to understand the genesis and course of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
 <ul>
-
+</div>
+  
 # <img src="heart_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Current Projects
 
 <div style="text-align: left;">
