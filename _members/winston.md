@@ -2,7 +2,7 @@
 name: Winston
 image: images/winston.jpg
 description: Postdogtoral fellow
-role: mascot
+role: postdoc
 #aliases:
  # - A. Chovie
   #- A Chovie
