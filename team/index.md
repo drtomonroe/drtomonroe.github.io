@@ -16,7 +16,7 @@ There is no "I" in team, but for now it's just me
   include list.html
   data="members"
   component="portrait"
-  filters="role: cheerleader"
+  filters="role: Cheerleader"
 %}
 {%
   include list.html
