@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# <img src="heart_icon.png" alt="Research" style="width: 50px; height: 45px; margin-right: 10px; vertical-align: middle;">Team
+# <img src="heart_icon.png" alt="Research" style="width: 40px; height: 50px; margin-right: 10px; vertical-align: middle;">Team
 
 
 There is no "I" in team, but for now it's just me
