@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# <i class="fas fa-microscope"></i>Select Publications
+# <img src="heart_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Select Publications
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
