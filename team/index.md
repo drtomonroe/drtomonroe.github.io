@@ -5,7 +5,8 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
+# <img src="bot_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Team
+
 
 There is no "I" in team. But for now, it's just me
 
