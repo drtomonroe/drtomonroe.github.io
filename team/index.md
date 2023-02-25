@@ -5,10 +5,10 @@ nav:
   tooltip: About our team
 ---
 
-# <img src="bot_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Team
+# <img src="images/bot_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Team
 
 
-There is no "I" in team. But for now, it's just me
+There is no "I" in team, but for now it's just me
 
 {% include section.html %}
 
