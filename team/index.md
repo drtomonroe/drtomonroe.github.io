@@ -47,9 +47,6 @@ Be my other set of hands! I'll need someone with the following skillset:
 - Obsessive sterile technique
 - Curiosity
 
-{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-#}{#:.center}
-
 {% include section.html %}
 
 ## Funding
