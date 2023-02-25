@@ -33,8 +33,6 @@ There is no "I" in team. But for now, it's just me
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
@@ -55,7 +53,7 @@ Be my other seet of hands! I'll need someone with the following skillset:
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by past or present funding from these organizations
 {:.center}
 
 {%
