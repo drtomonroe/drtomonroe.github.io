@@ -41,14 +41,14 @@ There is no "I" in team, but for now it's just me
 
 #### Technician jobs available soon
 
-Be my other seet of hands! I'll need someone with the following skillset:
+Be my other set of hands! I'll need someone with the following skillset:
 
 - Attention to detail
 - Obsessive sterile technique
 - Curiosity
 
-#{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
-#{:.center}
+{% include link.html type="external" link="https://google.com/" text="Apply Now" icon="" style="button" %}
+#}{#:.center}
 
 {% include section.html %}
 
