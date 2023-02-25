@@ -16,19 +16,19 @@ There is no "I" in team, but for now it's just me
   include list.html
   data="members"
   component="portrait"
-  filters="role: pi"
+  filters="role: cheerleader"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: phd"
+  filters="role: student"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
-  filters="role: programmer"
+  filters="role: staff"
 %}
 {:.center}
 
