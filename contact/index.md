@@ -56,7 +56,7 @@ Chicago, IL
 {% capture col2 %}
 {%
   include figure.html
-  image="images/winter.jpg"
+  image="images/winter.png"
   caption="Not summer"
 %}
 {% endcapture %}
