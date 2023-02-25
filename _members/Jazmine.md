@@ -2,7 +2,7 @@
 name: Jazmine Monroe
 image: images/jaz.jpg
 description: Postdogtoral associate
-role: mascot
+role: postdoc
 #aliases:
  # - A. Chovie
   #- A Chovie
