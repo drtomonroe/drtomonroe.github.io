@@ -1,17 +1,15 @@
 ---
-name: Anne Chovie
-image: images/member.jpg
-description: Bark Ops Engineer
-role: programmer
-aliases:
-  - A. Chovie
-  - A Chovie
+name: Tanner O Monroe
+image: images/IMG_3497.jpg
+description: It's me. This is my site
+role: Cheerleader
+#aliases:
+ # - A. Chovie
+  #- A Chovie
 links:
-  home-page: annechovie.com
-  email: anne@chovie.com
-  github: anne-chovie
+  home-page: drtomonroe.github.io
+  email: tanner.monroe@northwestern.edu
+  github: Tanner-O-Monroe
 ---
 
-Anne is a good dog.
-She studied at the University of Good Dogs.
-She likes pets, walkies, and treats.
+If you don't know, now you know
