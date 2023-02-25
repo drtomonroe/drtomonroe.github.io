@@ -5,7 +5,7 @@ nav:
   tooltip: Musings and miscellany
 ---
 
-# <i class="fas fa-feather-alt"></i>Blog
+# What's happening
 
 {% include section.html %}
 
@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## News
+## Twitter
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
