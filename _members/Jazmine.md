@@ -1,5 +1,5 @@
 ---
-name: Jazmine Monroe
+name: Jazmine
 image: images/jaz.jpg
 description: Postdogtoral associate
 role: staff
