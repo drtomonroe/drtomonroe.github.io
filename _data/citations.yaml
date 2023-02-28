@@ -104,13 +104,12 @@
   #- 
   publisher: PNAS
   date: '2020-09-16'
-  link: doi:10.1073/pnas.2011614117
+  link: https://www.pnas.org/doi/10.1073/pnas.2011614117
   image: https://i.imgur.com/UTR4AEB.png
   description: "We found that the small molecule, MCB-613, reduced post myocardial infarction injury by reducing inflammatory damage"
   #extra-links:
   #- type: manubot
   #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
   tags:
-  - Development 
   - Functional genetics
   - Mouse models
