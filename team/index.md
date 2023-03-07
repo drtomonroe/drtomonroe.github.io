@@ -16,7 +16,7 @@ There will be more
   include list.html
   data="members"
   component="portrait"
-  filters="role: Cheerleader"
+  filters="role: Me"
 %}
 {%
   include list.html
