@@ -2,7 +2,7 @@
 name: Tanner O Monroe
 image: images/IMG_3497.jpg
 description: It's me. This is my site
-role: Cheerleader
+role: Boss
 #aliases:
  # - A. Chovie
   #- A Chovie
