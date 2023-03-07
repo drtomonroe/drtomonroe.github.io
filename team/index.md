@@ -8,7 +8,7 @@ nav:
 # <img src="heart_icon.png" alt="Research" style="width: 40px; height: 50px; margin-right: 10px; vertical-align: middle;">Team
 
 
-There is no "I" in team, but for now it's just me
+There will be more
 
 {% include section.html %}
 
