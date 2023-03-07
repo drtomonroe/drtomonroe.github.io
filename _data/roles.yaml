@@ -1,9 +1,9 @@
-Cheerleader:
-  icon: fas fa-microscope
-  text: Principal Investigator
+Boss:
+  icon: fas fa-glasses
+  text: Me
 
 staff:
-  icon: fas fa-glasses
+  icon: fas fa-microscope
   text: Staff
 
 phd:
