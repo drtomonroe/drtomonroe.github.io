@@ -12,4 +12,4 @@ links:
   github: Tanner-O-Monroe
 ---
 
-If you don't know, now you know
+It's me
