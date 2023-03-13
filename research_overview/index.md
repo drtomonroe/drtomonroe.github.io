@@ -9,8 +9,10 @@ nav:
 
 <div style="text-align: center;">  
   
-   <p>
+<p>
      I specialize in designing and implementing tractable experiments to test hypotheses generated from personal and population genetics observations. I am particularly interested in genetic heart diseases and the variable expressivity that characterizes these conditions. The details of how cells and tissues self-organize with remarkable fidelity have become increasingly clear, yet we cannot engineer organs de novo. Simultaneously, we have made incredible advances in defining the pieces of the larger puzzle that is complex inheritence, but we remain woefully inadequate at predicting outcomes from genotypes alone. The crux of these issues is our nascent understanding of cis and trans genetic interactions. My work is in pursuit of a better understanding of how cells integrate gene expression and gene function across space and time. <strong>I am driven by a central ethos that understanding how cells interpret DNA to form healthy humans will lead to innovation that improves the quality of human life.</strong>
+</p>
+<p>
      Key to this work is the discovery, validation, and mechanistic mapping of high and low impact genetic variants. An important extention to this being the ability to interpret genetic variation within the context of local modifiers and background effects, which I see as is the next frontier of human genetics research. This topic is acutely relevant as clinical genetics becomes more routine, especially in diverse populations and given the nature of trait polygenicity. In my view, a future with better predictive models, backed by refined molecular pathomechanisms, will revolutionize the prevention and treatment of cardiomyopathies. My general approach sorts into three types of projects:
 </p>
 
