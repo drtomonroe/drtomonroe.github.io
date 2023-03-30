@@ -22,9 +22,9 @@ I am part of Northwestern University's Center for Genetic Medicine
   include link.html
   type="phone"
   icon=""
-  text="(210) 861-7888"
+  text="(312) 503-6284"
   tooltip=""
-  link="+1-210-861-7888"
+  link="+1-312-503-6284"
   style="button"
 %}
 {%
