@@ -1,7 +1,7 @@
 ---
 title: Home
 ---
-# “There is no gene for the human spirit.” Gattaca, 1997
+# “We must go and see for ourselves.” —Jacques Cousteau
 
 {% include feature.html
   image="images/Ultralight_IMG_7937.jpeg"
