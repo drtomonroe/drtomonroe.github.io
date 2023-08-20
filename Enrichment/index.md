@@ -10,13 +10,13 @@ nav:
   <!-- Music section -->
   <div style="flex: 1; padding-right: 20px;">
     <h1>On rotation</h1>
-    <img src="heart_icon.png" alt="Approach" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">
+    <img src="Dispured_inherit.jpeg" alt="Approach" style="width: 275px; height: 350px; margin-right: 10px; vertical-align: middle;">
   </div>
 
   <!-- Book section -->
   <div style="flex: 1; padding-left: 20px;">
     <h1>On the nightstand</h1>
-<img src="heart_icon.png" alt="Approach" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">
+<img src="in_return.png" alt="Approach" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">
   </div>
 
 </div>
