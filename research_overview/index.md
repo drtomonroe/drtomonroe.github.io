@@ -40,16 +40,17 @@ nav:
 </div>
 
 <div style="display: flex; align-items: start;">
-   
+  
+  <div>
+    <img src="website.png" alt="Research" style="width: 400px; height: 400px; margin-right: 20px;">
+  </div>
+
   <div style="flex: 1;">
     <ul>
      <li><strong>Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles. Usually, this means using animal models, or more recently, engineered human tissues. All models are imperfect, so each decision is based on careful consideration of the appropriateness of the validation system. My preferred approach is to use orthogonal models to identify convergent lines of evidence.</li>
     </ul>
   </div>
   
-  <div>
-    <img src="website.png" alt="Research" style="width: 400px; height: 400px; margin-right: 20px;">
-  </div>
  
 </div>
 
