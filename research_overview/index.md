@@ -42,7 +42,7 @@ nav:
 <div style="display: flex; align-items: start;">
   
   <div>
-    <img src="website.png" alt="Research" style="width: 400px; height: 400px; margin-right: 20px;">
+    <img src="website.png" alt="Research" style="width: 200px; height: 200px; margin-right: 20px;">
   </div>
 
   <div style="flex: 1;">
