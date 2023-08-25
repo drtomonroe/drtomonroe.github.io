@@ -48,7 +48,7 @@ nav:
   </div>
   
   <div>
-    <img src="website.png" alt="Research" style="width: 230px; height: 300px; margin-left: 20px;">
+    <img src="website.png" alt="Research" style="width: 200px; height: 200px; margin-rigjt: 20px;">
   </div>
  
 </div>
