@@ -54,11 +54,18 @@ nav:
  
 </div>
 
-  <ul>
- <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once we identify a candidate variant and test whether or not it is pathogenic, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences, ranging from antimorphic to hypermorphic, or even neomorphic. Therefore, in order to understand the genesis and course of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
-</ul>
-  
+<div style="display: flex; align-items: start;">
 
+<div style="flex: 1;">
+  <ul>
+   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once we identify a candidate variant and test whether or not it is pathogenic, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences, ranging from antimorphic to hypermorphic, or even neomorphic. Therefore, in order to understand the genesis and course of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
+  </ul>
+</div>
+  <div>
+    <img src="mechanisms.png" alt="Research" style="width: 266px; height: 200px; margin-left: 20px;">
+  </div>
+
+</div>
 
 
 {% include section.html %}
