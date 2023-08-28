@@ -1,6 +1,6 @@
 ---
 name: Tanner O Monroe
-image: images/IMG_3497.jpg
+image: images/tanner.jpg
 description: It's me. This is my site
 role: Me
 #aliases:
