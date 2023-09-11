@@ -7,7 +7,7 @@ nav:
 
 # <img src="heart_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Select Publications
 
-A few published works are shown here. You can find a full list on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tanner+monroe&sort=date">Pubmed</a>. I have had the good fortune to work on a variety of topics using several model organisms and cell culture tools to better understand genetic causality, with special attention towards cardiac biology.
+A few published works are shown here. You can find a full list on <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tanner+monroe&sort=date">Pubmed</a>.
 
 {% include section.html %}
 
