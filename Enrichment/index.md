@@ -2,7 +2,7 @@
 title: Enrichment
 nav:
   order: 1
-  tooltip: Published works
+  tooltip: Current Book & Album
 ---
 
 <div style="display: flex;">
