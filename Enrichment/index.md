@@ -16,7 +16,7 @@ nav:
   <!-- Book section -->
   <div style="flex: 1; padding-left: 20px;">
     <h1>On rotation</h1>
-<img src="in_return.png" alt="Approach" style="width: 350px; height: 350px; margin-right: 10px; vertical-align: middle;">
+<img src="Long_drive.png" alt="Approach" style="width: 350px; height: 350px; margin-right: 10px; vertical-align: middle;">
   </div>
 
 </div>
