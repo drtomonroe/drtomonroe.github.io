@@ -2,6 +2,23 @@
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
 - id: doi:10.1038/s41467-020-19637-5
+  title: The impact of damaging epilepsy and cardiac genetic variant burden in sudden death in the young
+  #authors:
+  #- 
+  #- 
+  publisher: Genome Medicine
+  date: '2024-01-16'
+  link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01284-w
+  image: https://i.imgur.com/I47yzfg.png
+  description: "In an especially young cohort of sudden death in young humans, we found excess nonsynonymous variation in both cardiomyopathy and epilepsy-related genes"
+  #extra-links:
+  #- type: manubot
+  #  link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01284-w
+  tags:
+  - Statistical genetics
+  - Hearts
+  
+- id: doi:10.1038/s41467-020-19637-5
   title: PCM1 is necessary for focal ciliary integrity and is a candidate for severe schizophrenia
   #authors:
   #- 
