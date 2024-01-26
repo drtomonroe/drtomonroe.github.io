@@ -50,10 +50,6 @@ defaults:
 collections:
   members:
     output: true
-    
-collections:
-  publications:
-    output: true
 
 # sass settings
 sass:
