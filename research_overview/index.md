@@ -10,13 +10,13 @@ nav:
 <div style="text-align: center;">  
   
 <p align="left">
-     I specialize in testing hypotheses generated from personal and population genetics observations. I am particularly interested in genetic heart diseases and the variable expressivity that characterizes these conditions.
+    I specialize in testing hypotheses generated from personal and population genetics observations with a particular focus on genetic heart diseases and the variable expressivity that characterizes these conditions.
  </p>
 <p align="left">
-  The details of how cells and tissues self-organize with remarkable fidelity have become increasingly clear, yet we cannot engineer organs de novo. Simultaneously, we have made incredible advances in defining the pieces of the larger puzzle that is complex inheritence, but we remain woefully inadequate at predicting outcomes from genotypes alone. The crux of these issues is our nascent understanding of cis and trans genetic interactions. My work is in pursuit of a better understanding of how cells integrate gene expression and gene function across space and time. <strong>I am driven by a central ethos that understanding how cells interpret DNA to form healthy humans will lead to innovation that improves the quality of human life.</strong>
+  Complex traits, such as the rhythmic beating of the human heart, emerge through deeply structured genetic interactions across space and time. While we have made great progress in understanding how cells and tissues self-organize by integrating DNA sequence information with environmental cues, we cannot engineer organs on demand or predict complex phenotypes from genetic sequences alone. Underlying these issues is our nascent understanding of cis and trans genetic interactions. <strong>I am driven by a central ethos that understanding how cells interpret DNA to form healthy humans will lead to innovation that improves the quality of human life.</strong>
 </p>
 <p align="left">
-     This work is framed around the discovery, validation, and mechanistic mapping of genetic variants. An important extension to that approach being the interpretation of variants within the context of local modifiers, non-additive interactions, and environmental influences. This topic is acutely relevant as clinical genetics becomes more routine, especially in diverse populations and given the nature of trait polygenicity. In my view, multi-allelic predictive models informed by defined molecular pathomechanisms will revolutionize the prevention and treatment of cardiomyopathies. My general strategy sorts into three types of projects:
+    This work is framed around the discovery, validation, and mechanistic mapping of genetic variation. An important extension to that approach being the interpretation of variants within the context of local modifiers, non-additive interactions, and environmental influences. This topic is acutely relevant as clinical genetics becomes more routine, especially in diverse populations and given the nature of trait polygenicity. In my view, multi-allelic predictive models informed by defined molecular pathomechanisms will revolutionize the prevention and treatment of cardiomyopathies. My general strategy sorts into three types of projects:
 </p>
 
   
@@ -29,7 +29,7 @@ nav:
 
   <div style="flex: 1;">
     <ul>
-      <li><strong>Statistical inference to identify suspicious candidate variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, I focus my attention on discovering novel genetic components of disease. My approach is to identify highly penetrant variants passed down within families, and separately, look for inflation of common variants in more common diseases. I am keenly interested in how rare and common genetic variants interact to modify disease, and how cumulative genetic burden amounts to a continuum of causality.</li>
+      <li><strong>Statistical inference to identify suspicious candidate variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, I focus my attention on discovering novel genetic components of disease. My approach is to identify highly penetrant variants passed down within families, and separately, to look for inflation of common variants in more common diseases. I am keenly interested in how rare and common genetic variants interact to modify disease, and how cumulative genetic burden amounts to a continuum of causality.</li>
       <br>
     </ul>
   </div>
@@ -48,7 +48,7 @@ nav:
 
   <div style="flex: 1;">
     <ul>
-     <li><strong>Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles. Usually, this means using animal models, or more recently, engineered human tissues. All models are imperfect, so each decision is based on careful consideration of the appropriateness of the validation system. My preferred approach is to use orthogonal models to identify convergent lines of evidence.</li>
+     <li><strong>Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles using animal models, or engineered human tissues. My preferred approach is to use complementary models to identify convergent lines of evidence.</li>
       <br>
     </ul>
   </div>
@@ -60,7 +60,7 @@ nav:
 
 <div style="flex: 1;">
   <ul>
-   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once we identify a candidate variant and test whether or not it is pathogenic, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Therefore, in order to understand the genesis and course of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
+   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once we identify a candidate variant and validate pathogenicity, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Therefore, in order to understand the genesis of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
   </ul>
 </div>
   <div>
