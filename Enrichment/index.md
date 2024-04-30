@@ -10,7 +10,7 @@ nav:
   <!-- Music section -->
   <div style="flex: 1; padding-right: 20px;">
     <h1>On the nightstand</h1>
-    <img src="finch.png" alt="Approach" style="width: 275px; height: 350px; margin-right: 10px; vertical-align: middle;">
+    <img src="allocation.png" alt="Approach" style="width: 275px; height: 350px; margin-right: 10px; vertical-align: middle;">
   </div>
 
   <!-- Book section -->
