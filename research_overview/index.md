@@ -48,7 +48,7 @@ nav:
 
   <div style="flex: 1;">
     <ul>
-     <li><strong>Testing the pathogenicity of those candidates.</strong> Of course, statistical inference is not enough to infer pathogenicity of novel loci. The early days of human genetics were fraught with imperfect assumptions and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles using animal models, or engineered human tissues. My preferred approach is to use complementary models to identify convergent lines of evidence.</li>
+     <li><strong>Testing the pathogenicity of those candidates.</strong> Statistical inference is usually not enough to characterize novel genetic variation. The early days of human genetics were fraught with imperfect assumptions and genetic misattributions. Therefore, a critical component of my work is validation of candidate alleles using engineered human tissues or animal proxies. My preferred approach is to use complementary models to identify convergent lines of evidence.</li>
       <br>
     </ul>
   </div>
@@ -60,7 +60,7 @@ nav:
 
 <div style="flex: 1;">
   <ul>
-   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once we identify a candidate variant and validate pathogenicity, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Therefore, in order to understand the genesis of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
+   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once a variant's effect is established, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Therefore, in order to understand the genesis of disease, it is critical to understand the proximal molecular consequences stemming from mutation.</li>
   </ul>
 </div>
   <div>
