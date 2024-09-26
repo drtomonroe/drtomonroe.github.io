@@ -14,7 +14,7 @@ nav:
 </p>
 
 <p align="left">
-    Complex traits, such as the rhythmic beating of the human heart, emerge through genetic interactions across space and time. While we have made significant progress in resolving how cells and tissues self-organize by integrating DNA sequence information with environmental cues, we still cannot engineer organs on demand or predict complex phenotypes from genetic sequences alone. Underlying these challenges is our poor understanding of cis and trans genetic interactions. <strong>I am driven by the central ethos that understanding how cumulative genetic variation leads to disease will drive innovation that improves the quality of human life.</strong>
+    Complex traits, such as the rhythmic beating of the human heart, emerge through genetic interactions across space and time. While we have made significant progress in resolving how tissues self organize by integrating environmental cues with DNA sequence, we still cannot engineer organs on demand or predict complex phenotypes from genetic sequences alone. Underlying these challenges is our poor understanding of cis and trans genetic interactions. <strong>I am driven by the central ethos that understanding how cumulative genetic variation leads to disease will drive innovation that improves the quality of human life.</strong>
 </p>
 
 <p align="left">
