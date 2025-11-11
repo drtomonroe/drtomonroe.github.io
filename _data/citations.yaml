@@ -1,6 +1,20 @@
 # Supposed to be automatic, but i messed it up. just add here and in the _Publications folder
 # See https://github.com/greenelab/lab-website-template/wiki/Citations
 
+- id: doi:10.1016/j.xcrm.2025.102455
+  title: A combined genomic arrhythmia propensity score delineates cumulative risk
+  authors: Monroe TO; Puckelwartz MJ; Pesce LL; Kearns SD; Page P; Ibrahim N; Weber ZT; Nóbrega MA; Kannankeril P; Tristani-Firouzi M; Rasmussen-Torvik LJ; Dellefave-Castillo L; George AL; Webster G; McNally EM
+  publisher: Cell Reports Medicine
+  date: '2025-11-11'
+  link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00528-2
+  image: /assets/images/GAPS.png
+  description: >
+    We identified arrhythmia risk beyond known pathogenic variants by adding up genome-wide common and rare variants thought to influence cardiac function.
+  tags:
+  - Statistical genetics
+  - Arrhythmia
+  - Hearts
+  
 - id: doi:10.1038/s41467-020-19637-5
   title: The impact of damaging epilepsy and cardiac genetic variant burden in sudden death in the young
   #authors:
