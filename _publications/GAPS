@@ -1,0 +1,16 @@
+---
+title: "A combined genomic arrhythmia propensity score delineates cumulative risk"
+collection: publications
+permalink: /publication/2025-11-11-1
+excerpt: 'We identified arrhythmia risk beyond known pathogenic variants by adding up genome-wide common and rare variants thought to influence cardiac function'
+date: 2025-11-11
+venue: 'Cell Reports Medicine'
+paperurl: #'https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00528-2'
+PMID: 'Coming'
+---
+Here, we followed a simple idea we hope can be extended to other complex traits - we added together three layers of genetic risk for non-ischemic arrhythmia: high effect coding variants, regulatory elements mapping to them, and common variants thought to influence cardiac form and function. We found that a score combining the total genetic risk set outperforms any subset in isolation
+<br>
+<img src="GAPS.png" width="450" height="500">
+<br>
+  
+[Download paper here](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00528-2)
