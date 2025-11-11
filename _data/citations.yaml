@@ -3,7 +3,8 @@
 
 - id: doi:10.1016/j.xcrm.2025.102455
   title: A combined genomic arrhythmia propensity score delineates cumulative risk
-  authors: 
+  #authors: 
+  publisher: Cell Reports Medicine
   date: '2025-11-11'
   link: https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(25)00528-2
   image: https://imgur.com/6N1DtsW.png
