@@ -6,7 +6,7 @@ title: Home
 
 {% include feature.html
   image="images/final.png"
-  text="<strong>I am a geneticist and developmental biologist <a href='https://labs.feinberg.northwestern.edu/mcnally/members/index.html'>in the McNally lab</a>, and will be opening the Monroe Laboratory for Experimental Cardiogenomics in the Icahn School of Medicine at Mount Sinai in New York City January 2026 </strong>
+  text="<strong>I am a geneticist and developmental biologist <a href='https://labs.feinberg.northwestern.edu/mcnally/members/index.html'>in the McNally lab</a>, and will be opening the Monroe Laboratory for Experimental Cardiogenomics at the Icahn School of Medicine at Mount Sinai in New York City January 2026 </strong>
   
   My work is dedicated to understanding how human DNA sequence variation influences complex traits, with special emphasis on cardiac form and function. The foundation of this effort is the observation that we differ in a low proportion of our total DNA sequence content - a fact which unites us in a shared humanity that should be celebrated. However, the promise of personalized medicine will only be fulfilled by understanding those subtle differences that help shape our individuality." 
   position="left"
