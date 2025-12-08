@@ -7,15 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-I am part of Northwestern University's Center for Genetic Medicine
+Cardiovascular Research Institute, Icahn School of Mecidine at Mount Sinai. New York City
 
 {%
   include link.html
   type="email"
   icon=""
-  text="tanner.monroe@northwestern.edu"
+  text="tanner.monroe@mssm.edu"
   tooltip=""
-  link="tanner.monroe@northwestern.edu"
+  link="tanner.monroe@mssm.edu"
   style="button"
 %}
 {%
@@ -33,7 +33,7 @@ I am part of Northwestern University's Center for Genetic Medicine
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Robert+H.+Lurie+Medical+Research+Center+of+Northwestern+University,+303+E+Superior+St,+Chicago,+IL+60611/@41.8954479,-87.6196398,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd3554999a93b:0x779532662251a102!8m2!3d41.8954479!4d-87.6196398!16s%2Fg%2F12hrghtdl"
+  link="https://www.google.com/maps/place/Hess+Center+for+Science+and+Medicine/@40.7908963,-73.9542754,833m/data=!3m3!1e3!4b1!5s0x89c2f61d927ec5bd:0x309f01ca7a1125df!4m6!3m5!1s0x89c2f61d93ca0f89:0x676ca4820b03146e!8m2!3d40.7908963!4d-73.9517005!16s%2Fg%2F11fn03x48_?entry=ttu&g_ep=EgoyMDI1MTIwMi4wIKXMDSoASAFQAw%3D%3D"
   style="button"
 %}
 {:.center}
