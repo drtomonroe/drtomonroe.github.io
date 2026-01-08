@@ -10,7 +10,7 @@ text="
 <strong>
 I direct the Monroe <span style='color:#8B0000;'>L</span>aboratory for
 E<span style='color:#8B0000;'>x</span>perimental
-<span style='color:#8B0000;'>C</span>ardio<span style='color:#8B0000;'>G</span>enomics
+<span style='color:#8B0000;'>C</span>ardio<span style='color:#8B0000;'>g</span>enomics
 at the Icahn School of Medicine at Mount Sinai in New York City
 </strong>
 
