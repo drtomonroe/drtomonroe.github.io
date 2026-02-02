@@ -19,7 +19,7 @@ nav:
 </p>
 
 <p align="left">
-    Our work centers around the discovery, validation, and mechanistic interpretation of genetic variation - known as the "variant to function" challenge, V2F. A crucial extension of this approach is the interpretation of variants within the context of modifiers, non-additive interactions, and environmental influences. This topic is acutely relevant as clinical genetics becomes more routine, especially in diverse populations and the emerging role of polygenic inheritance. In my view, multi-allelic predictive models informed by molecular phenotypes will revolutionize the prevention and treatment of disease. Our general strategy is organized into three types of projects:
+    Our work centers around the discovery, validation, and mechanistic interpretation of genetic variation - known as the "variant to function" challenge, V2F. A crucial extension of this approach is the interpretation of variants within the context of modifiers, non-additive interactions, and environmental influences. This topic is acutely relevant as clinical genetics becomes more routine, especially in diverse populations and the emerging role of polygenic inheritance. In our view, multi-allelic predictive models informed by molecular phenotypes will revolutionize the prevention and treatment of disease. Our general strategy is organized into three types of projects:
 </p>
 
   
