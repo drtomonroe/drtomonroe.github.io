@@ -10,7 +10,7 @@ nav:
 <div style="text-align: center;">  
   
 <p align="left">
-  <strong>Our mission is to improve patient outcomes by defining how genetic variation influences cardiac form and function.</strong>
+  <strong>The LXCG mission is to improve patient outcomes by defining how genetic variation influences cardiac form and function.</strong>
   We specialize in testing hypotheses generated from personal and population genetics observations, emphasizing genetic heart diseases and the variable expressivity characteristic of these conditions.
 </p>
 
