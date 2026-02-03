@@ -46,11 +46,11 @@ Cardiovascular Research Institute, Icahn School of Mecidine at Mount Sinai. New 
 
 1470 Madison Avenue  
 New York, NY  
-Adjacent to Central Park  
+ 
 {:.center}
 
 {%
   include figure.html
   image="images/icahn.png"
-  caption="Adjacent to Central Park"
+  caption="We are adjacent to Central Park"
 %}
