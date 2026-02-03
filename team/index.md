@@ -8,7 +8,7 @@ nav:
 # <img src="heart_icon.png" alt="Research" style="width: 45px; height: 50px; margin-right: 10px; vertical-align: middle;">Team
 
 
-#We are recruiting at all levels. 
+# We are recruiting at all levels. 
 
 {% include section.html %}
 
