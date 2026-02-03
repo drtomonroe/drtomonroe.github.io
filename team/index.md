@@ -35,13 +35,13 @@ nav:
 
 {% include section.html %}
 
-## Join
+## The LXCG is recruiting!
 
-#### The LXCG is recruiting technicians, students, and postdoctoral researchers!
+#### Technicians, students, and postdoctoral researchers -
 
 We welcome candidates with evidence of high-level scholarship and technical expertise from diverse quantitative and experimental backgrounds commensurate with their role. Those with experience in DNA sequencing analysis and/or hiPSC-derived cardiomyocyte culture are particularly encouraged to apply.
 
-We prioritize intellectual curiosity, rigorous mechanistic thinking, and personalized mentorship. We are housed in the Cardiovascular Research Institute – a highly collaborative ecosystem deliberately structured to foster opportunities for cross-disciplinary research focused on the heart.
+Our lab emphasizes intellectual curiosity, rigorous mechanistic thinking, and personalized mentorship. We are housed in the Cardiovascular Research Institute – a highly collaborative ecosystem deliberately structured to foster opportunities for cross-disciplinary research focused on the heart.
 
 Interested candidates should email a cover letter and CV to Dr. Monroe at [tanner.monroe@mssm.edu](mailto:tanner.monroe@mssm.edu).
 
