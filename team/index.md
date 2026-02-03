@@ -67,4 +67,8 @@ Our work is made possible by past or present funding from these organizations
   link2="https://www.nih.gov"
   tooltip2="Cool Institute"
 
+    image3="images/leducq.png"
+  link2="https://www.fondationleducq.org"
+  tooltip2="Cool Foundation2"
+
 %}
