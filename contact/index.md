@@ -40,24 +40,17 @@ Cardiovascular Research Institute, Icahn School of Mecidine at Mount Sinai. New 
 
 {% include section.html %}
 
+{% include section.html %}
+
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-1470 Madison Avenue 
+1470 Madison Avenue  
 New York, NY  
+Adjacent to Central Park  
 {:.center}
 
-{% capture col1 %}
 {%
   include figure.html
-  image="images/summer.png"
-  caption="Summertime Chicago"
+  image="images/icahn.png"
+  caption="Adjacent to Central Park"
 %}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/winter.png"
-  caption="Not summer"
-%}
-{% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
