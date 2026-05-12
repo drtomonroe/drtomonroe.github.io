@@ -8,7 +8,7 @@ role: Me
   #- A Chovie
 links:
   home-page: drtomonroe.github.io
-  email: tanner.monroe@northwestern.edu
+  email: tanner.monroe@mssm.edu
   github: Tanner-O-Monroe
 ---
 
