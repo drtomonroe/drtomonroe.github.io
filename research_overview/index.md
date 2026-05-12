@@ -51,7 +51,7 @@ nav:
   loop 
   muted 
   playsinline
-  style="width: 300px; height: 200px; margin-right: 20px; object-fit: cover;"
+  style="width: 350px; height: 200px; margin-right: 20px; object-fit: cover;"
 >
   <source src="EHT_copy.mp4" type="video/mp4">
 </video>
