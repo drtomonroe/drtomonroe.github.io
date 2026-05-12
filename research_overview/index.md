@@ -46,7 +46,15 @@ nav:
 <div style="display: flex; align-items: start;">
   
   <div>
-    <img src="website.png" alt="Research" style="width: 200px; height: 200px; margin-right: 20px;">
+    <video 
+  autoplay 
+  loop 
+  muted 
+  playsinline
+  style="width: 200px; height: 200px; margin-right: 20px; object-fit: cover;"
+>
+  <source src="EHT_copy.mp4" type="video/mp4">
+</video>
   </div>
 
   <div style="flex: 1;">
