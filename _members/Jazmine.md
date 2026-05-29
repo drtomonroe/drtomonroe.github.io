@@ -7,7 +7,7 @@ role: staff
  # - A. Chovie
   #- A Chovie
 links:
-  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Amadori+L
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=letizia+amadori&sort=date
   email: letizia.amadori@mssm.edu
 ---
 
