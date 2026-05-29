@@ -12,3 +12,6 @@ links:
   linkedin: https://www.linkedin.com/in/letiziaamadori/
 ---
 
+{% comment %}
+remove this block from 15-17 and replace with text if you want a description
+{% endcomment %}
