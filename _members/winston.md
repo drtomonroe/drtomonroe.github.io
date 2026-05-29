@@ -1,15 +1,14 @@
 ---
-name: Winston
-image: images/winston.jpg
-description: Postdogtoral fellow
-role: staff
+name: Giancarlo Diaz
+image: images/Giancarlo.jpg
+description: Masters Student
+role: masters
 #aliases:
  # - A. Chovie
   #- A Chovie
 #links:
- # home-page: drtomonroe.github.io
-  #email: tanner.monroe@northwestern.edu
+  #home-page: drtomonroe.github.io
+  email: giancarlo.diaz@icahn.mssm.edu
   #github: Tanner-O-Monroe
 ---
 
-I am the lab watchdog
