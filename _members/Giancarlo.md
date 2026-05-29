@@ -1,6 +1,6 @@
 ---
 name: Giancarlo Diaz
-image: images/Giancarlo.jpg
+image: images/Giancarlo.jpeg
 description: Masters Student
 role: masters
 #aliases:
