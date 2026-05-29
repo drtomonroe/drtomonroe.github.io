@@ -9,7 +9,7 @@ role: Me
 links:
   home-page: drtomonroe.github.io
   email: tanner.monroe@mssm.edu
-  linkedin: https://www.linkedin.com/in/https://www.linkedin.com/in/tanner-o-monroe/
+  linkedin: https://www.linkedin.com/in/tanner-o-monroe/
 ---
 
 {% comment %}
