@@ -1,7 +1,7 @@
 ---
-name: Tanner O Monroe
+name: Tanner O Monroe PhD
 image: images/tanner.jpg
-description: It's me. This is my site
+description: PI
 role: Me
 #aliases:
  # - A. Chovie
@@ -9,7 +9,7 @@ role: Me
 links:
   home-page: drtomonroe.github.io
   email: tanner.monroe@mssm.edu
-  github: Tanner-O-Monroe
+  linkedin: https://www.linkedin.com/in/tanner-o-monroe-725593238/
 ---
 
-It's me
+#It's me
