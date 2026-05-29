@@ -1,15 +1,14 @@
 ---
-name: Jazmine
-image: images/jaz.jpg
-description: Postdogtoral associate
+name: Letizia Amadori PhD
+image: images/Letizia.jpg
+description: Scientist & Lab Manager
 role: staff
 #aliases:
  # - A. Chovie
   #- A Chovie
-#links:
- # home-page: drtomonroe.github.io
-  #email: tanner.monroe@northwestern.edu
+links:
+  Pubmed: drtomonroe.github.io
+  email: letizia.amadori@mssm.edu
   #github: Tanner-O-Monroe
 ---
 
-I mostly sleep
