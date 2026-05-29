@@ -6,7 +6,7 @@ role: masters
 #aliases:
  # - A. Chovie
   #- A Chovie
-#links:
+links:
   #home-page: drtomonroe.github.io
   email: giancarlo.diaz@icahn.mssm.edu
   #github: Tanner-O-Monroe
