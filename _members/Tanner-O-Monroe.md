@@ -1,6 +1,6 @@
 ---
 name: Tanner O Monroe PhD
-image: images/tanner.jpg
+image: images/on_course.jpeg
 description: PI
 role: Me
 #aliases:
