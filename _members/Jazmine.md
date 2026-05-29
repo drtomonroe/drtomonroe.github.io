@@ -7,8 +7,7 @@ role: staff
  # - A. Chovie
   #- A Chovie
 links:
-  Pubmed: drtomonroe.github.io
+  pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=Amadori+L
   email: letizia.amadori@mssm.edu
-  #github: Tanner-O-Monroe
 ---
 
