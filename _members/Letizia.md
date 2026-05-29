@@ -9,5 +9,6 @@ role: staff
 links:
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=letizia+amadori&sort=date
   email: letizia.amadori@mssm.edu
+  linkedin: https://www.linkedin.com/in/letiziaamadori/
 ---
 
