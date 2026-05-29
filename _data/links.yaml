@@ -150,7 +150,7 @@ package:
   tooltip: Package
   link: $LINK
 
-  pubmed:
+pubmed:
   icon: fas fa-book-medical
   text: PubMed
   tooltip: PubMed
