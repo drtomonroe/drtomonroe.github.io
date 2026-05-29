@@ -20,13 +20,19 @@ nav:
   include list.html
   data="members"
   component="portrait"
-  filters="role: student"
+  filters="role: phd"
 %}
 {%
   include list.html
   data="members"
   component="portrait"
   filters="role: staff"
+%}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: masters"
 %}
 {:.center}
 
