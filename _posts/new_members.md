@@ -8,7 +8,7 @@ member: anne-chovie
 
 The LXCG formally welcomed two new lab members this week.
 
-Letizia Amadori, PhD, joins us as lab manager and staff scientist after completing outstanding recent work on atherosclerosis mechanisms and drug repurposing strategies.
+Letizia Amadori PhD joins us as lab manager and staff scientist after completing outstanding recent work on atherosclerosis mechanisms and drug repurposing strategies.
 
 Giancarlo Diaz has begun his graduate studies with us, where he will model genetic cardiomyopathy using engineered heart tissues.
 
