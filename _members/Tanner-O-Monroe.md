@@ -12,6 +12,5 @@ links:
   linkedin: tanner-o-monroe/
 ---
 
-{% comment %}
-remove this block from 15-17 and replace with text if you want a description
-{% endcomment %}
+Originally from San Antonio, TX, Dr. Monroe made his way to NYC through Austin, Houston, Durham, and Chicago. Aside from his academic pursuits, he enjoys peace and quiet - riding his bike, playing golf, and relaxing with his amazing wife and spoiled dog.
+
