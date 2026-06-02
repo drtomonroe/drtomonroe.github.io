@@ -8,11 +8,11 @@ staff:
 
 phd:
   icon: fas fa-graduation-cap
-  text: PhD Student
+  text: PhD
 
 masters:
   icon: fas fa-user-graduate
-  text: Masters Student
+  text: Master's
 
 programmer:
   icon: fas fa-code
