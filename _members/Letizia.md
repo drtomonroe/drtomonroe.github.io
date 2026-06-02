@@ -17,6 +17,6 @@ Letizia earned her B.S. in Biology and M.S. in Molecular and Cellular Biology fr
 
 In 2026, Letizia joined the LXCG as an Assistant Scientist. Her research focuses on understanding how specific defects in *MYH7* lead to a distinct form of developmental heart disease. In addition to her scientific focus, she plays an active role in the management of the laboratory’s operational activities.
 
-Outside the lab, Letizia is passionate about music, art, and writing. She taught herself to play the guitar and a bit of piano as well. She also loves painting and she challenge herself by learning new languages — five and counting (Italian, English, Spanish, French and Korean)!
+Outside the lab, Letizia is passionate about music, art, and writing. She taught herself to play the guitar and a bit of piano as well. She also loves painting and she challenges herself by learning new languages — five and counting (Italian, English, Spanish, French and Korean)!
 
 
