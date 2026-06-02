@@ -1,7 +1,7 @@
 ---
 name: Giancarlo Diaz
 image: images/Giancarlo.jpg
-description: Master's Student
+description: Student
 role: masters
 #aliases:
  # - A. Chovie
