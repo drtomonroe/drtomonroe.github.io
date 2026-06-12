@@ -5,7 +5,7 @@ title: Home
 
 
 {% include feature.html
-image="images/in_lab.jpeg"
+image="images/final_mssm.png"
 text="
 <strong>
 I direct the Monroe <span style='color:#8B0000;'>L</span>aboratory for
