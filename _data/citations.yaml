@@ -16,7 +16,7 @@
   tags:
     - Statistical genetics
     - Functional genomics
-    - Hearts
+    - Development
     - Engineered heart tissues
     
 - id: doi:10.1016/j.xcrm.2025.102455
@@ -31,7 +31,6 @@
   tags:
   - Statistical genetics
   - Arrhythmia
-  - Hearts
   
 - id: doi:10.1038/s41467-020-19637-5
   title: The impact of damaging epilepsy and cardiac genetic variant burden in sudden death in the young
@@ -48,7 +47,6 @@
   #  link: https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-024-01284-w
   tags:
   - Statistical genetics
-  - Hearts
   
 - id: doi:10.1038/s41467-020-19637-5
   title: PCM1 is necessary for focal ciliary integrity and is a candidate for severe schizophrenia
@@ -68,7 +66,6 @@
   - Development
   - Mouse models
   - Zebrafish
-  - Functional genetics
 
 - id: doi:10.1093/hmg/ddac176
   title: Opposing effects of genetic variation in MTCH2 for obesity versus heart failure
@@ -103,7 +100,6 @@
   #- type: manubot
   #  link: https://www.nature.com/articles/s41467-020-19637-5
   tags:
-  - Familial inheritance 
   - Development
   - Zebrafish
   - Hearts
@@ -124,7 +120,7 @@
     link: https://www.sciencedirect.com/science/article/pii/S1534580719301844
   tags:
   - Development 
-  - Functional genetics
+  - Functional genomics
   - Mouse models
   - Hearts
   
@@ -143,7 +139,7 @@
   #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
   tags:
   - Development 
-  - Functional genetics
+  - Functional genomics
   - Mouse models
 
 - id: doi:10.1073/pnas.2011614117
@@ -160,5 +156,5 @@
   #- type: manubot
   #  link: https://www.pnas.org/doi/10.1073/pnas.2000175117
   tags:
-  - Functional genetics
+  - Functional genomics
   - Mouse models
