@@ -1,0 +1,17 @@
+---
+title: "Engineered Heart Tissues Facilitate Noncoding Variant Studies in Cardiomyopathy"
+collection: publications
+permalink: /publication/2026-06-29-1
+excerpt: 'We identified arrhythmia risk beyond known pathogenic variants by adding up genome-wide common and rare variants thought to influence cardiac function'
+date: 2026-06-29
+venue: 'Circulation Research'
+paperurl: #'https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.125.327506'
+PMID: '42366973'
+---
+Rather than pointing to specific variants, genome-wide association studies typically implicate loci containing many co-inherited variants. Because the signal is spread out over many variants, it is challenging to tell which are truly associated with risk. In this paper, we approach that problem with the underlying model that noncoding GWAS loci may sometimes point to regulatory regions that influence the trait. So, we integrated cardiomyopathy GWAS data with open chromatin data we generated from engineered heart tubes. This allowed us to prioritize likely functional variants and enhancers, which we then validated in hiPSC-CMs and engineered heart tubes, establishing this model system and approach as a tractible means to dissect noncoding GWAS loci.
+<img src="EHT_HCMDCM.png" width="450" height="500">
+<br>
+  
+[Download paper here](https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.125.327506)
+
+Citation: 1.	Weber ZT, Monroe TO, Holgren C, Mitchell RM, Zhang L, Thornburg AG, Salamone IM, Chychula IA, Karthik F, Fullenkamp DE, Puckelwartz MJ, Liu X, McNally EM, Nóbrega MA. Engineered Heart Tissues Facilitate Noncoding Variant Studies in Cardiomyopathy. Circ Res. 2026 Jun 29. doi: 10.1161/CIRCRESAHA.125.327506. Epub ahead of print. PMID: 42366973.
