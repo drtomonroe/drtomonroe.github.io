@@ -8,14 +8,16 @@
   link: https://www.ahajournals.org/doi/10.1161/CIRCRESAHA.125.327506
   image: https://i.imgur.com/fuqtFFi.png
   description: >
-    We integrated cardiomyopathy GWAS signals with engineered heart tissue open chromatin maps
-    to prioritize functional noncoding variants and regulatory elements for experimental validation.
+    In this study, we first characterized single-cell gene expression and open chromatin
+    profiles in engineered heart tissues, revealing advanced maturation compared to
+    hiPSC-CMs. We then integrated cardiomyopathy GWAS signals with these datasets to
+    prioritize functional noncoding variants and regulatory elements for experimental
+    validation, identifying an enhancer important for contractile function.
   tags:
     - Statistical genetics
     - Functional genomics
     - Hearts
     - Engineered heart tissues
-    
     
 - id: doi:10.1016/j.xcrm.2025.102455
   title: A combined genomic arrhythmia propensity score delineates cumulative risk
