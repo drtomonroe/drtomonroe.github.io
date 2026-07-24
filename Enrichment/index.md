@@ -22,7 +22,7 @@ nav:
   <!-- Boid section -->
   <div style="flex: 1;">
     <h1>BOID OF THE MONTH</h1>
-    <img src="tellycat.png" alt="Boid of the month" style="width: 350px; height: 350px; object-fit: cover; vertical-align: middle;">
+    <img src="tellycat.jpg" alt="Boid of the month" style="width: 350px; height: 350px; object-fit: cover; vertical-align: middle;">
   </div>
 
 </div>
