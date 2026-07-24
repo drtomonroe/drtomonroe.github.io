@@ -2,21 +2,27 @@
 title: Enrichment
 nav:
   order: 1
-  tooltip: Current Book & Album
+  tooltip: Current Book, Album & Boid
 ---
 
-<div style="display: flex;">
+<div style="display: flex; gap: 20px;">
 
   <!-- Book section -->
-  <div style="flex: 1; padding-right: 20px;">
+  <div style="flex: 1;">
     <h1>On the nightstand</h1>
-    <img src="DoD.jpeg" alt="Approach" style="width: 275px; height: 350px; margin-right: 10px; vertical-align: middle;">
+    <img src="DoD.jpeg" alt="Current book" style="width: 275px; height: 350px; object-fit: cover; vertical-align: middle;">
   </div>
 
   <!-- Music section -->
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1;">
     <h1>On rotation</h1>
-<img src="tennis.png" alt="Approach" style="width: 350px; height: 350px; margin-right: 10px; vertical-align: middle;">
+    <img src="tennis.png" alt="Current album" style="width: 350px; height: 350px; object-fit: cover; vertical-align: middle;">
+  </div>
+
+  <!-- Boid section -->
+  <div style="flex: 1;">
+    <h1>BOID OF THE MONTH</h1>
+    <img src="tellycat.png" alt="Boid of the month" style="width: 350px; height: 350px; object-fit: cover; vertical-align: middle;">
   </div>
 
 </div>
