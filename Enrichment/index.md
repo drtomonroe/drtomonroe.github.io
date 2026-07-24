@@ -16,7 +16,7 @@ nav:
       style="width: 275px; height: 350px; object-fit: cover;"
     >
     <p style="max-width: 350px; margin-top: 10px; font-size: 0.9rem; line-height: 1.4; text-align: left !important;">
-      A provocative, if slightly heavy-handed, hypothesis about human motivations.
+      A provocative, if heavy-handed, hypothesis about human motivations.
     </p>
   </div>
 
