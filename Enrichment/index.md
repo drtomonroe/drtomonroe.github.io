@@ -37,10 +37,10 @@ nav:
   <div style="flex: 1;">
     <h1>BOID OF THE MONTH</h1>
     <img
-      src="tellycat.jpg"
-      alt="Boid of the month"
-      style="width: 350px; height: 350px; object-fit: cover;"
-    >
+  src="tellycat.jpg"
+  alt="Boid of the month"
+  style="width: 350px; height: 350px; object-fit: cover; opacity: 1 !important; filter: none !important; mix-blend-mode: normal !important;"
+>
     <p style="max-width: 350px; margin-top: 10px; font-size: 0.9rem; line-height: 1.4; text-align: left !important;">
       A smug, mischievous look. What’s this little fella up to? We’ll never know.
     </p>
