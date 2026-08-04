@@ -8,7 +8,7 @@ title: Home
 image="images/final_mssm.png"
 text="
 <strong>
-Welcome from the Monroe <span style='color:#8B0000;'>L</span>aboratory for
+Welcome to the Monroe <span style='color:#8B0000;'>L</span>aboratory for
 E<span style='color:#8B0000;'>x</span>perimental
 <span style='color:#8B0000;'>C</span>ardio<span style='color:#8B0000;'>g</span>enomics
 (LXCG) at the Icahn School of Medicine at Mount Sinai in New York City
