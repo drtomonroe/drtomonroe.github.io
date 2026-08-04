@@ -1,7 +1,7 @@
 ---
 title: Enrichment
 nav:
-  order: 1
+  order: 5
   tooltip: Current Book, Album & Boid
 ---
 
