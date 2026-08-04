@@ -11,15 +11,15 @@ nav:
   
 <p align="left">
   <strong>The LXCG mission is to improve patient outcomes by defining how genetic variation influences cardiac form and function.</strong>
-  We specialize in testing hypotheses generated from personal and population genetics observations, emphasizing genetic heart diseases and the variable expressivity characteristic of these conditions.
+  We specialize in testing hypotheses generated from genetic observations in individual patients and human populations, with an emphasis on inherited heart diseases and their variable outcomes.
 </p>
 
 <p align="left">
-    Complex traits, such as the rhythmic beating of the human heart, emerge through genetic interactions across space and time. While we have made significant progress in resolving how tissues self organize by integrating environmental cues with DNA sequence, we still cannot engineer organs on demand or predict complex phenotypes from genetic sequences alone. Underlying these challenges is our poor understanding of cis and trans genetic interactions. <strong>We are driven by the central ethos that understanding how cumulative genetic variation leads to disease will drive innovation that improves the quality of human life.</strong>
+  Complex traits, including the rhythmic beating of the human heart, emerge from genetic interactions that unfold across space and time. Although we have made substantial progress in understanding how tissues self-organize by integrating environmental signals with DNA sequence, we still cannot reliably predict complex phenotypes from genetic information or engineer organs on demand. Meeting these challenges will require a deeper understanding of how genetic variants interact both locally and across the genome. <strong>Our work is guided by a central ethos that understanding the cumulative effects of genetic variation will lead to better ways to predict, prevent, and treat disease.</strong>
 </p>
 
 <p align="left">
-    Our work centers around the discovery, validation, and mechanistic interpretation of genetic variation - known as the "variant to function" challenge, V2F. A crucial extension of this approach is the interpretation of variants within the context of modifiers, non-additive interactions, and environmental influences. This topic is acutely relevant as clinical genetics becomes more routine, especially in diverse populations and the emerging role of polygenic inheritance. In our view, multi-allelic predictive models informed by molecular phenotypes will revolutionize the prevention and treatment of disease. Our general strategy is organized into three types of projects:
+    Our research spans the discovery of genetic variants, the evaluation of their biological and clinical significance, and the investigation of the mechanisms through which they influence disease. We study how these effects depend on genomic background and environmental exposures, helping explain why individuals with similar disease-associated variants can experience very different outcomes. This work is increasingly important as genetic testing becomes a routine part of clinical care. Realizing its full potential will require predictive models that reflect human genetic diversity, integrate the effects of multiple variants, and incorporate molecular phenotypes. We believe such models could transform the prevention and treatment of cardiovascular disease. Our research is organized into three interconnected areas:
 </p>
 
   
@@ -32,7 +32,8 @@ nav:
 
   <div style="flex: 1;">
     <ul>
-      <li><strong>Statistical inference to identify candidate variants.</strong> Rationally designed drugs with a strong basis in human genetics have repeatedly been proven to be more likely to gain FDA approval. Therefore, we focus our attention on discovering novel genetic components of disease. The goal is to identify highly penetrant variants passed down within families, and separately, to look for inflation of common variants in more common diseases. We are especially interested in how rare and common genetic variants interact to modify disease, and how cumulative genetic burden amounts to a continuum of causality.</li>
+      <li> <strong>Identifying candidate variants through statistical inference.</strong>
+        Experimental therapies supported by human genetic evidence are more likely to progress to the clinical. We therefore use family- and population-based genetic analyses to discover variants that contribute to cardiovascular disease. We seek both rare, highly penetrant variants that segregate within families and common variants associated with complex forms of disease. We are particularly interested in how rare and common variants interact, and how their cumulative effects produce a continuum of genetic risk. </li>
       <br>
     </ul>
   </div>
@@ -59,7 +60,7 @@ nav:
 
   <div style="flex: 1;">
     <ul>
-     <li><strong>Testing the pathogenicity of those candidates.</strong> Statistical inference is usually not enough to characterize novel genetic variation. Therefore, an important component is the validation of candidate alleles using engineered human tissues or animal proxies, ideally using complementary models to identify convergent lines of evidence.</li>
+     <li><strong>Testing the pathogenicity of those candidates.</strong> Statistical inference alone is rarely sufficient to establish the biological or clinical significance of a newly identified variant. Therefore, we test candidate variants in engineered human tissues and animal models, using complementary experimental systems to determine their effects and seek convergent evidence of pathogenicity.</li>
       <br>
     </ul>
   </div>
@@ -71,7 +72,7 @@ nav:
 
 <div style="flex: 1;">
   <ul>
-   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong> Once a variant's effect is established, the next step is to understand why. Even pathogenic variants within the same gene can have divergent molecular consequences. Therefore, in order to understand the basis of disease, it is critical to understand the direct molecular consequences stemming from mutation.</li>
+   <li><strong>Using that knowledge to more clearly understand pathomechanisms.</strong>  Once the effect of a variant has been established, we investigate how it alters molecular and cellular function. Even pathogenic variants within the same gene can produce distinct consequences. Defining these consequences helps us understand the basis of disease and may reveal opportunities for more precise treatments.</li>
   </ul>
 </div>
   <div>
