@@ -6,12 +6,10 @@ nav:
 
 # Gallery
 
-Photos from lab outings, meetings, conferences, and other events.
+![Lab outing](/images/gallery/outing-01.jpg)
 
-## Lab Outings
+*Brief description of the photo.*
 
-![Description of the outing](/images/gallery/outing-01.jpg)
+![Lab meeting](/images/gallery/meeting-01.jpg)
 
-## Meetings and Conferences
-
-![Description of the meeting](/images/gallery/meeting-01.jpg)
+*Brief description of the photo.*
