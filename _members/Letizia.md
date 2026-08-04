@@ -7,10 +7,10 @@ role: staff
  # - A. Chovie
   #- A Chovie
 links:
+  google-scholar: Q7tEir4AAAAJ&hl=en
   pubmed: https://pubmed.ncbi.nlm.nih.gov/?term=letizia+amadori&sort=date
   email: letizia.amadori@mssm.edu
   linkedin: letiziaamadori/
-  google-scholar: Q7tEir4AAAAJ&hl=en
 ---
 
 
