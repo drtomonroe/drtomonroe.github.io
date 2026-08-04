@@ -6,9 +6,9 @@ nav:
 
 # Gallery
 
-![Lab outing](/images/gallery/outing-01.jpg)
+![Lab outing](NYSC_talk.png)
 
-*Brief description of the photo.*
+*Dr. Monroe introducing the lab at the New York Stem Cell Club meeting*
 
 ![Lab meeting](/images/gallery/meeting-01.jpg)
 
