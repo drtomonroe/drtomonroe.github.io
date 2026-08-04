@@ -7,6 +7,7 @@ role: Me
  # - A. Chovie
   #- A Chovie
 links:
+  google-scholar: ayP-o1oAAAAJ&hl=en
   home-page: drtomonroe.github.io
   email: tanner.monroe@mssm.edu
   linkedin: tanner-o-monroe/
