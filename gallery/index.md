@@ -8,7 +8,7 @@ nav:
 
 ![Drs. Monroe and Amadori unboxing supplies](lab_opening.png){: style="display: block; max-width: 400px; max-height: 400px; width: auto; height: auto; margin-left: auto; margin-right: auto;" }
 
-*Unboxing the first deliveries! Unclear if Dr. Monroe is always wearing the same outfit or if he has a closet full of them, like Superman*
+*Unboxing the first deliveries! Unclear if Dr. Monroe is wearing the same outfit over and over again, or if he has a closet full of them - like Superman*
 {: style="text-align: center;" }
 
 
