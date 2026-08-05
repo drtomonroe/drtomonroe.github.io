@@ -8,6 +8,7 @@ nav:
 # <i class="fas fa-envelope"></i>Contact
 
 Cardiovascular Research Institute, Icahn School of Mecidine at Mount Sinai. New York City
+{: style="text-align: center;" }
 
 {%
   include link.html
