@@ -2,6 +2,7 @@
 title: Gallery
 nav:
   order: 6
+  tooltip: Lab photos
 ---
 
 # Gallery
