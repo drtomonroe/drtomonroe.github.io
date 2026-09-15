@@ -79,3 +79,15 @@ body:has(.background-video) nav {
   position: relative;
   z-index: 10;
 }
+
+/* Readable panel behind the homepage introduction */
+body:has(.background-video) .home-content .feature-text,
+body:has(.background-video) .home-content .feature__text,
+body:has(.background-video) .home-content .feature > div:last-child {
+  background: rgba(255, 255, 255, 0.78);
+  padding: 1.5rem;
+  border-radius: 10px;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
