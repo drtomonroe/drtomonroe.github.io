@@ -35,3 +35,45 @@
     color: $white;
   }
 }
+
+
+/* Homepage video background */
+
+.background-video {
+  position: fixed;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  z-index: -2;
+  pointer-events: none;
+}
+
+.video-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(255, 255, 255, 0.55);
+  z-index: -1;
+  pointer-events: none;
+}
+
+.home-content {
+  position: relative;
+  z-index: 1;
+}
+
+/* These activate only on a page containing the video */
+html:has(.background-video),
+body:has(.background-video),
+body:has(.background-video) main,
+body:has(.background-video) .background,
+body:has(.background-video) .page,
+body:has(.background-video) .page__inner-wrap,
+body:has(.background-video) .page__content {
+  background: transparent !important;
+}
+
+/* Disable the theme's normal background image on the homepage */
+body:has(.background-video) .background::before {
+  display: none;
+}
