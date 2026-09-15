@@ -10,7 +10,7 @@ title: Home
 
 <div class="home-content" markdown="1">
 
-# **“We must go and see for ourselves.” —Jacques Cousteau
+# “We must go and see for ourselves.” —Jacques Cousteau
 
 {% include feature.html
 image="images/final_mssm.png"
