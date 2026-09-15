@@ -1,10 +1,14 @@
+---
+title: Home
+---
+
 <video class="background-video" autoplay muted loop playsinline>
   <source src="{{ '/assets/videos/background.mp4' | relative_url }}" type="video/mp4">
 </video>
 
 <div class="video-overlay"></div>
 
-<div class="home-content">
+<div class="home-content" markdown="1">
 
 # “We must go and see for ourselves.” —Jacques Cousteau
 
