@@ -1,8 +1,12 @@
----
-title: Home
----
-# “We must go and see for ourselves.” —Jacques Cousteau
+<video class="background-video" autoplay muted loop playsinline>
+  <source src="{{ '/assets/videos/background.mp4' | relative_url }}" type="video/mp4">
+</video>
 
+<div class="video-overlay"></div>
+
+<div class="home-content">
+
+# “We must go and see for ourselves.” —Jacques Cousteau
 
 {% include feature.html
 image="images/final_mssm.png"
@@ -18,4 +22,4 @@ Our work is dedicated to understanding how human DNA sequence variation influenc
 position="left"
 %}
 
-
+</div>
