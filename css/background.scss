@@ -62,18 +62,12 @@
   z-index: 1;
 }
 
-/* These activate only on a page containing the video */
+/* Make only the homepage's central content area transparent */
 html:has(.background-video),
 body:has(.background-video),
 body:has(.background-video) main,
-body:has(.background-video) .background,
 body:has(.background-video) .page,
 body:has(.background-video) .page__inner-wrap,
 body:has(.background-video) .page__content {
   background: transparent !important;
-}
-
-/* Disable the theme's normal background image on the homepage */
-body:has(.background-video) .background::before {
-  display: none;
 }
