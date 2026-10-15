@@ -24,12 +24,12 @@ nav:
   <div style="flex: 1;">
     <h1>On rotation</h1>
     <img
-      src="MMFOOD.png"
+      src="Long_drive.png"
       alt="Current album"
       style="width: 350px; height: 350px; object-fit: cover;"
     >
     <p style="max-width: 350px; margin-top: 10px; font-size: 0.9rem; line-height: 1.4; text-align: left !important;">
-      A nutritious fifth installment from rap’s supervillain. ALL CAPS when you spell the man’s name.
+      Iconic opening riff.
     </p>
   </div>
 
