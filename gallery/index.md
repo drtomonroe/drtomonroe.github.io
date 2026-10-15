@@ -7,6 +7,11 @@ nav:
 
 # Gallery
 
+![LXCG members at the joint PrIISM-IGI-CVRI retreat](retreat.png){: style="display: block; max-width: 400px; max-height: 400px; width: auto; height: auto; margin-left: auto; margin-right: auto;" }
+
+*LXCG members learning all about inter-organ communication at the joint PrIISM-IGI-CVRI retreat down on Wall Street*
+{: style="text-align: center;" }
+
 
 ![Reunion](reunion.png){: style="display: block; max-width: 400px; max-height: 400px; width: auto; height: auto; margin-left: auto; margin-right: auto;" }
 
