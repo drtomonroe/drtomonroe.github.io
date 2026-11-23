@@ -16,7 +16,7 @@ nav:
       style="width: 275px; height: 350px; object-fit: cover;"
     >
     <p style="max-width: 350px; margin-top: 10px; font-size: 0.9rem; line-height: 1.4; text-align: left !important;">
-      Finally picked up this Manhattan canon
+      Finally picked up this piece of Manhattan canon
     </p>
   </div>
 
